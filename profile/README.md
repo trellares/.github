@@ -8,7 +8,7 @@ TRELLARES builds practical AI-powered products and reusable systems for software
 
 ### NIK Project OS
 
-A structured system for building software projects with AI while preserving project context, decisions, architecture, and execution flow.
+A structured system for building software projects with AI while preserving project context, decisions, architecture, and execution flow. https://os.trellares.com/
 
 More products are in development.
-https://os.trellares.com/
+
